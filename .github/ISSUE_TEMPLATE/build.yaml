@@ -29,7 +29,7 @@ body:
     attributes:
       label: Build Description
       description: Describe the build.
-      value: "
+      value: "|
           T/s: 
 
           [source]()
