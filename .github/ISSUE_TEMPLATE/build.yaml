@@ -29,7 +29,7 @@ body:
     attributes:
       label: Build Description
       description: Describe the build.
-      value: "|
+      placeholder: |
           T/s: 
 
           [source]()
@@ -40,7 +40,8 @@ body:
           **RAM** | []() | $0 | 1
           **Power Supply** | []() | $0 | 1
           **Enclosure** | []() | $0 | 1
-          **CPU Heatsink** | []() | $0 | 1"
+          **CPU Heatsink** | []() | $0 | 1
+      value: ""
     validations:
       required: true
 
