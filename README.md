@@ -8,7 +8,7 @@ Type|Item|Price
 :----|:----|:----
 **CPU** | [Intel Xeon w5-3435X](https://pcpartpicker.com/product/placeholder) | -
 **Motherboard** | [ASUS Pro WS W790 SAGE SE Intel LGA 4677 CEB](https://pcpartpicker.com/product/placeholder) | -
-**Expansion Card** | [16x to 8X 8X Bifurcators]([https://pcpartpicker.com/product/placeholder](https://www.amazon.com/gp/product/B0BHNPKCL5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)) | $54.98
+**Expansion Card** | [16x to 8X 8X Bifurcators](https://www.amazon.com/gp/product/B0BHNPKCL5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1) | $54.98
 **Risers** | [Left-handed 90 degree risers (mobo to bifurcators)](https://pcpartpicker.com/product/placeholder) | -
 **Risers** | [Right-handed 90 degree risers (bifurcator to second GPU)](https://pcpartpicker.com/product/placeholder) | -
 
