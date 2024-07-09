@@ -6,13 +6,29 @@ Research often involves protected data. This repository aims to provide a robust
 
 ## Hardware
 
-
+### Build Template
 <details>
   <summary>Build Template</summary>
 
   T/s: 
+  
+  [source]()
+  Type|Item|Price|Amount
+  :----|:----|:----|:----
+  **CPU(s)** | []() | $0 | 1
+  **Motherboard** | []() | $0 | 1
+  **RAM** | []() | $0 | 1
+  **Power Supply** | []() | $0 | 1
+  **Enclosure** | []() | $0 | 1
+  **CPU Heatsink** | []() | $0 | 1
+</details>
 
-  #### Build Template
+### Standard 2x3090 Inferencer & Fine-tuner
+<details>
+  <summary>Build Template</summary>
+
+  T/s: 
+  
   [source]()
   Type|Item|Price|Amount
   :----|:----|:----|:----
