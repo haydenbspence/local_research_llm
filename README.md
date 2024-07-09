@@ -6,14 +6,23 @@ Research often involves protected data. This repository aims to provide a robust
 
 ## Hardware
 
-Type|Item|Price
-:----|:----|:----
-**CPU** | []() | $10
-**Motherboard** | []() | $10
-**Graphics Cards** | []() | $10
-**Expansion Card** | []() | $10
-**Risers** | []() | $10
-**Case** | []() | $10
+
+<details>
+  <summary>Build Template</summary>
+
+  T/s: 
+
+  #### Build Template
+  [source]()
+  Type|Item|Price|Amount
+  :----|:----|:----|:----
+  **CPU(s)** | []() | $0 | 1
+  **Motherboard** | []() | $0 | 1
+  **RAM** | []() | $0 | 1
+  **Power Supply** | []() | $0 | 1
+  **Enclosure** | []() | $0 | 1
+  **CPU Heatsink** | []() | $0 | 1
+</details>
 
 <details>
   <summary>Build 1 (240gb VRAM)</summary>
@@ -32,8 +41,8 @@ Type|Item|Price
 
 </details>
 
+### LLaMA 400B Inference Server
 <details>
-  <summary>LLaMA 400B Inference Server</summary>
   This hypothetical build by the HuggingFace engineer [Matthew Carrigan](https://github.com/rocketknight1) is designed to inference the LLaMA 400B model.
   It has two variants, a single socket and dual socket. We outline the dual socket here.
 
