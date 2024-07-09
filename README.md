@@ -23,9 +23,8 @@ Research often involves protected data. This repository aims to provide a robust
   **CPU Heatsink** | []() | $0 | 1
 </details>
 
-### Standard 2x3090 Inferencer & Fine-tuner
 <details>
-  <summary>Build Template</summary>
+  <summary>Standard 2x3090 Inferencer & Fine-tuner</summary>
 
   T/s: 
   
@@ -57,8 +56,9 @@ Type|Item|Price
 
 </details>
 
-### LLaMA 400B Inference Server
 <details>
+  <summary>LLaMA 400B Inference Server</summary>
+  [source](https://archive.is/zd160)
   This hypothetical build by the HuggingFace engineer [Matthew Carrigan](https://github.com/rocketknight1) is designed to inference the LLaMA 400B model.
   It has two variants, a single socket and dual socket. We outline the dual socket here.
 
