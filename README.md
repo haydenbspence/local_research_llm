@@ -12,3 +12,10 @@ Text embeddings transform unstructured text data into a structured numerical for
 
 The [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard) maintains a current ranking of embedding models that can be used locally. 
 
+## Tips & Tricks
+
+### Power Limiting
+
+```{bash}
+nvidia-smi --power-limit 185
+```
