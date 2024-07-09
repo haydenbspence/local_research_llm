@@ -1,0 +1,48 @@
+name: Build Suggestion
+description: Submit a build suggestion.
+title: "[Build]: "
+labels: ["hardware", "build"]
+projects: 
+assignees:
+  - haydenbspence
+body:
+  - type: dropdown
+    id: build-type
+    attributes:
+      label: Type of Build
+      description: What type of build is this?
+      options:
+        - Inference Only
+        - Inference & Training
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Build Source
+      description: If there is a link that describes the build, please provide it here.
+      placeholder: https://archive.is/
+    validations:
+      required: false
+  - type: textarea
+    id: build
+    attributes:
+      label: Build Description
+      description: Describe the build.
+      placeholder: |
+          T/s: 
+
+          [source]()
+          Type|Item|Price|Amount
+          :----|:----|:----|:----
+          **CPU(s)** | []() | $0 | 1
+          **Motherboard** | []() | $0 | 1
+          **RAM** | []() | $0 | 1
+          **Power Supply** | []() | $0 | 1
+          **Enclosure** | []() | $0 | 1
+          **CPU Heatsink** | []() | $0 | 1
+      value: "A bug happened!"
+    validations:
+      required: true
+
