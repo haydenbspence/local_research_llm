@@ -28,19 +28,6 @@ body:
     id: build
     attributes:
       label: Build Description
-      description: Describe the build.
-      placeholder: |
-          T/s: 
-
-          [source]()
-          Type|Item|Price|Amount
-          :----|:----|:----|:----
-          **CPU(s)** | []() | $0 | 1
-          **Motherboard** | []() | $0 | 1
-          **RAM** | []() | $0 | 1
-          **Power Supply** | []() | $0 | 1
-          **Enclosure** | []() | $0 | 1
-          **CPU Heatsink** | []() | $0 | 1
       value: "Describe the build."
     validations:
       required: true
