@@ -1,8 +1,5 @@
 <!--
-Thanks for taking the time to contribute to Ibis!
-
-Please ensure that your pull request title matches the conventional commits
-specification: https://www.conventionalcommits.org/en/v1.0.0/
+Thanks for taking the time to contribute!
 -->
 
 ## Description of changes
@@ -28,3 +25,4 @@ For example, if your pull requests resolves issues 1000, 2000 and 3000 write:
 If your pull request doesn't resolve any issues, you can delete this section
 entirely, including the `## Issues closed` section header.
 -->
+|
