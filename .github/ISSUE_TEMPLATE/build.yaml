@@ -28,7 +28,7 @@ body:
     id: build
     attributes:
       label: Build Description
-      value: "Describe the build."
+      value: "Describe the build in as much detail as possible. Please include the specific hardware, testing, and any other relevant information."
     validations:
       required: true
 
