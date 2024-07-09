@@ -2,7 +2,6 @@ name: Build Suggestion
 description: Submit a build suggestion.
 title: "[Build]: "
 labels: ["hardware", "build"]
-projects: 
 assignees:
   - haydenbspence
 body:
