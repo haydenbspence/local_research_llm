@@ -41,7 +41,7 @@ body:
           **Power Supply** | []() | $0 | 1
           **Enclosure** | []() | $0 | 1
           **CPU Heatsink** | []() | $0 | 1
-      value: ""
+      value: "Describe the build."
     validations:
       required: true
 
