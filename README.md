@@ -6,9 +6,11 @@ Research often involves protected data. This repository aims to provide a robust
 
 ## Hardware
 
+<details>
+  <summary>Build 1 (240gb VRAM)</summary>
 
-#### Build 1 (240gb VRAM)
-[source](https://www.reddit.com/r/LocalLLaMA/comments/1djd6ll/behemoth_build/)
+  #### Build 1 (240gb VRAM)
+
 Type|Item|Price
 :----|:----|:----
 **CPU** | [Intel Xeon w5-3435X Hexadeca-core (16 Core) 3.10 GHz Processor ](https://www.intel.com/content/www/us/en/products/sku/233421/intel-xeon-w53435x-processor-45m-cache-3-10-ghz/specifications.html) | $1599.00
@@ -18,6 +20,12 @@ Type|Item|Price
 **Risers** | [Left-handed 90 degree risers (mobo to bifurcators)](https://www.amazon.com/LINKUP-PCIe-4-0-Riser-Cable/dp/B08XN21819?th=1) | $50 x  5
 **Risers** | [Right-handed 90 degree risers (bifurcator to second GPU)](https://pcpartpicker.com/product/placeholder) | $50 x 10
 **Case** | [Open Air Mining Rig Frame](https://a.co/d/0gD0LLP7) | $40
+
+</details>
+
+
+#### Build 2 ()
+
 
 ## Open-Source Models for Research
 
